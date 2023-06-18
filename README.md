@@ -7,7 +7,7 @@ The transactions details include the idno, city, date, card type, expenses type,
 
 Project Goals: The goals of this project are to:
 
-The goal of the "Credit Card Transactions Analysis" project is to leverage data analysis techniques to gain insights from credit card transaction data. The project aims to achieve the following objectives:
+The goal of the "Credit Card Transactions Analysis" project is to leverage data analysis techniques to gain insights from credit card transactions data. The project aims to achieve the following objectives:
 
 1) Customer Behavior Analysis: Analyze credit card transaction patterns to understand customer behavior, preferences, and spending habits. By uncovering insights into customer segments and transaction characteristics, the project seeks to enhance marketing strategies, customer retention, and personalized offerings.
 
@@ -18,9 +18,3 @@ In completing this project, I utilized the following tools: SQL, Power BI, OneNo
 1) SQL: I used SQL to extract and manipulate the credit card transaction data from the dataset. SQL allowed me to query the data, filter relevant information, and perform calculations or aggregations as needed.
 
 2) Power BI: To visualize the credit card usage patterns and trends, I employed PowerBI. This powerful data visualization tool enabled me to create interactive charts, graphs, and dashboards that effectively showcased the insights derived from the analysis.
-
-
-
-
-
-
