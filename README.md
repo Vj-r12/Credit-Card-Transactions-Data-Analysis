@@ -3,7 +3,7 @@
 Project Name: Credit Card Transactions Analysis.
 
 Project Description: This project uses SQL to analysis the data from credit card transactions datset.
-The transactions details include the idno, city, date, card types, expenses types, gender, amount. The data is extracted from Kaggle and loaded into SQL. The data is then analyzed and visualized using PowerBI.
+The transactions details include the idno, city, date, card type, expenses type, gender, amount. The data is extracted from Kaggle and loaded into SQL. The data is then analyzed and visualized using PowerBI.
 
 Project Goals: The goals of this project are to:
 
